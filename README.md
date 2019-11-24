@@ -1,3 +1,7 @@
+## Github Finder
+
+Small project I built to learn react. Learned the traditional prop-drilling way then converted it all to a nice and beautiful context (state mangagement) implementation.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
